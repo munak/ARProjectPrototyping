@@ -12,6 +12,20 @@
 		1A2975701FFCC767009053DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A29756E1FFCC767009053DF /* Main.storyboard */; };
 		1A2975721FFCC767009053DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2975711FFCC767009053DF /* Assets.xcassets */; };
 		1A2975751FFCC767009053DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A2975731FFCC767009053DF /* LaunchScreen.storyboard */; };
+		1AF347612005DAF200EC3C06 /* DrawingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347542005DAF200EC3C06 /* DrawingCanvasView.swift */; };
+		1AF347622005DAF200EC3C06 /* CHContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347552005DAF200EC3C06 /* CHContentViewController.swift */; };
+		1AF347632005DAF200EC3C06 /* UIViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347562005DAF200EC3C06 /* UIViewController+Navigation.swift */; };
+		1AF347642005DAF200EC3C06 /* NavigationControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347572005DAF200EC3C06 /* NavigationControllers.swift */; };
+		1AF347652005DAF200EC3C06 /* CHPagingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347582005DAF200EC3C06 /* CHPagingScrollViewController.swift */; };
+		1AF347662005DAF200EC3C06 /* CHViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347592005DAF200EC3C06 /* CHViews.swift */; };
+		1AF347672005DAF200EC3C06 /* CHPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475A2005DAF200EC3C06 /* CHPickerViewController.swift */; };
+		1AF347682005DAF200EC3C06 /* SwipeActionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475B2005DAF200EC3C06 /* SwipeActionTableViewCell.swift */; };
+		1AF347692005DAF200EC3C06 /* FIlters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475C2005DAF200EC3C06 /* FIlters.swift */; };
+		1AF3476A2005DAF200EC3C06 /* CHTableViewControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475D2005DAF200EC3C06 /* CHTableViewControllers.swift */; };
+		1AF3476B2005DAF200EC3C06 /* CHModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475E2005DAF200EC3C06 /* CHModalViewController.swift */; };
+		1AF3476C2005DAF200EC3C06 /* CHControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3475F2005DAF200EC3C06 /* CHControls.swift */; };
+		1AF3476D2005DAF200EC3C06 /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF347602005DAF200EC3C06 /* RecordButton.swift */; };
+		1AF3476F2005DBB300EC3C06 /* UIViewLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF3476E2005DBB200EC3C06 /* UIViewLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		1A2975711FFCC767009053DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A2975741FFCC767009053DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A2975761FFCC767009053DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AF347542005DAF200EC3C06 /* DrawingCanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingCanvasView.swift; sourceTree = "<group>"; };
+		1AF347552005DAF200EC3C06 /* CHContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHContentViewController.swift; sourceTree = "<group>"; };
+		1AF347562005DAF200EC3C06 /* UIViewController+Navigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Navigation.swift"; sourceTree = "<group>"; };
+		1AF347572005DAF200EC3C06 /* NavigationControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationControllers.swift; sourceTree = "<group>"; };
+		1AF347582005DAF200EC3C06 /* CHPagingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPagingScrollViewController.swift; sourceTree = "<group>"; };
+		1AF347592005DAF200EC3C06 /* CHViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHViews.swift; sourceTree = "<group>"; };
+		1AF3475A2005DAF200EC3C06 /* CHPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPickerViewController.swift; sourceTree = "<group>"; };
+		1AF3475B2005DAF200EC3C06 /* SwipeActionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeActionTableViewCell.swift; sourceTree = "<group>"; };
+		1AF3475C2005DAF200EC3C06 /* FIlters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIlters.swift; sourceTree = "<group>"; };
+		1AF3475D2005DAF200EC3C06 /* CHTableViewControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHTableViewControllers.swift; sourceTree = "<group>"; };
+		1AF3475E2005DAF200EC3C06 /* CHModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHModalViewController.swift; sourceTree = "<group>"; };
+		1AF3475F2005DAF200EC3C06 /* CHControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHControls.swift; sourceTree = "<group>"; };
+		1AF347602005DAF200EC3C06 /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
+		1AF3476E2005DBB200EC3C06 /* UIViewLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,7 @@
 		1A2975691FFCC767009053DF /* LivingMockUp3 */ = {
 			isa = PBXGroup;
 			children = (
+				1AF347532005DAF200EC3C06 /* PilotPlant */,
 				1A29756A1FFCC767009053DF /* AppDelegate.swift */,
 				1A29756C1FFCC767009053DF /* ViewController.swift */,
 				1A29756E1FFCC767009053DF /* Main.storyboard */,
@@ -62,6 +91,27 @@
 				1A2975761FFCC767009053DF /* Info.plist */,
 			);
 			path = LivingMockUp3;
+			sourceTree = "<group>";
+		};
+		1AF347532005DAF200EC3C06 /* PilotPlant */ = {
+			isa = PBXGroup;
+			children = (
+				1AF3476E2005DBB200EC3C06 /* UIViewLayer.swift */,
+				1AF347542005DAF200EC3C06 /* DrawingCanvasView.swift */,
+				1AF347552005DAF200EC3C06 /* CHContentViewController.swift */,
+				1AF347562005DAF200EC3C06 /* UIViewController+Navigation.swift */,
+				1AF347572005DAF200EC3C06 /* NavigationControllers.swift */,
+				1AF347582005DAF200EC3C06 /* CHPagingScrollViewController.swift */,
+				1AF347592005DAF200EC3C06 /* CHViews.swift */,
+				1AF3475A2005DAF200EC3C06 /* CHPickerViewController.swift */,
+				1AF3475B2005DAF200EC3C06 /* SwipeActionTableViewCell.swift */,
+				1AF3475C2005DAF200EC3C06 /* FIlters.swift */,
+				1AF3475D2005DAF200EC3C06 /* CHTableViewControllers.swift */,
+				1AF3475E2005DAF200EC3C06 /* CHModalViewController.swift */,
+				1AF3475F2005DAF200EC3C06 /* CHControls.swift */,
+				1AF347602005DAF200EC3C06 /* RecordButton.swift */,
+			);
+			path = PilotPlant;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,8 +186,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AF3476A2005DAF200EC3C06 /* CHTableViewControllers.swift in Sources */,
+				1AF347652005DAF200EC3C06 /* CHPagingScrollViewController.swift in Sources */,
+				1AF3476F2005DBB300EC3C06 /* UIViewLayer.swift in Sources */,
+				1AF347662005DAF200EC3C06 /* CHViews.swift in Sources */,
+				1AF347692005DAF200EC3C06 /* FIlters.swift in Sources */,
 				1A29756D1FFCC767009053DF /* ViewController.swift in Sources */,
+				1AF347672005DAF200EC3C06 /* CHPickerViewController.swift in Sources */,
+				1AF347682005DAF200EC3C06 /* SwipeActionTableViewCell.swift in Sources */,
+				1AF3476B2005DAF200EC3C06 /* CHModalViewController.swift in Sources */,
+				1AF3476C2005DAF200EC3C06 /* CHControls.swift in Sources */,
+				1AF347642005DAF200EC3C06 /* NavigationControllers.swift in Sources */,
+				1AF347632005DAF200EC3C06 /* UIViewController+Navigation.swift in Sources */,
+				1AF347622005DAF200EC3C06 /* CHContentViewController.swift in Sources */,
 				1A29756B1FFCC767009053DF /* AppDelegate.swift in Sources */,
+				1AF347612005DAF200EC3C06 /* DrawingCanvasView.swift in Sources */,
+				1AF3476D2005DAF200EC3C06 /* RecordButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
